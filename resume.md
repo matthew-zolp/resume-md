@@ -8,8 +8,11 @@ Software Architect driving enterprise Salesforce architecture, DevOps automation
 
 ---
 
-**Email:** matthew.zolp@gmail.com | **Phone:** (325) 812-9171 | **Address:** Oshkosh, WI 54904  
-**LinkedIn:** [linkedin.com/in/matthewzolp](https://linkedin.com/in/matthewzolp)
+<div class="contact-line">
+
+**Email:** matthew.zolp@gmail.com | **Phone:** (325) 812-9171 | **Location:** Oshkosh, WI | **LinkedIn:** [linkedin.com/in/matthewzolp](https://linkedin.com/in/matthewzolp)
+
+</div>
 
 ---
 
@@ -27,37 +30,34 @@ Software Architect driving enterprise Salesforce architecture, DevOps automation
 
 ### Certifications — Salesforce (23x Certified)
 
-- **System Architect** — Salesforce, 2023
-- **Application Architect** — Salesforce, 2020
-- **Integration Architect** — Salesforce, 2023
-- **Identity and Access Management Architect** — Salesforce, 2023
-- **Data Architecture and Management Designer** — Salesforce, 2020
-- **Sharing and Visibility Designer** — Salesforce, 2020
-- **Development Lifecycle and Deployment Designer** — Salesforce, 2021
-- **Platform Developer II** — Salesforce, 2020
-- **Platform Developer I** — Salesforce, 2019
-- **JavaScript Developer I** — Salesforce, 2024
-- **Advanced Administrator** — Salesforce, 2019
-- **Administrator** — Salesforce, 2018
-- **Platform App Builder** — Salesforce, 2018
-- **OmniStudio Developer** — Salesforce, 2024
-- **OmniStudio Consultant** — Salesforce, 2024
-- **MuleSoft Developer II** — Salesforce, 2025
-- **MuleSoft Developer I** — Salesforce, 2025
-- **MuleSoft Associate** — Salesforce, 2025
-- **Strategy Designer** — Salesforce, 2024
-- **User Experience Designer** — Salesforce, 2024
-- **Process Automation Accredited Professional** — Salesforce, 2024
-- **Security and Privacy Accredited Professional** — Salesforce, 2024
-- **Public Sector Solutions Accredited Professional** — Salesforce, 2023
+<div class="cert-grid">
+<div class="cert-col">
 
-### Additional Certifications
+- **System Architect** — 2023
+- **Application Architect** — 2020
+- **Integration Architect** — 2023
+- **Identity & Access Management Architect** — 2023
+- **Data Architecture & Management Designer** — 2020
+- **Platform Developer II** — 2020
 
-- **Copado Fundamentals I & II** — Copado, 2023
+</div>
+<div class="cert-col">
+
+- **JavaScript Developer I** — 2024
+- **MuleSoft Developer II** — 2025
+- **OmniStudio Developer** — 2024
+- **Development Lifecycle & Deployment Designer** — 2021
+- **Copado Fundamentals I & II** — 2023
+- *+ 13 additional Salesforce & DevOps certifications*
+
+</div>
+</div>
 
 ---
 
 ## Experience
+
+<div class="job">
 
 ### Software Architect (Salesforce) | Booz Allen Hamilton
 
@@ -75,6 +75,10 @@ _Aug 2025 – Present | Oshkosh, WI_
 - Contribute production Apex code across feature development, bug resolution, and test infrastructure
 - Mentor Technical Leads and developers, fostering a culture of shared ownership and continuous improvement
 
+</div>
+
+<div class="job">
+
 ### Lead Engineer (Salesforce) | Booz Allen Hamilton
 
 _Apr 2022 – Aug 2025 | Appleton, WI_
@@ -84,6 +88,10 @@ _Apr 2022 – Aug 2025 | Appleton, WI_
 - Oversaw the transition of the scheduling solution into an Unlocked Package, making it installable across multiple Salesforce orgs within the client's infrastructure
 - Resolved 48 production issues in a single year while serving as a cross-functional SME on the Salesforce Scheduling solution
 - Guided the Production Sustainment Team and delivery teams through complex release challenges, proactively designing against API specifications ahead of backend availability — saving significant time and eliminating costly rework
+
+</div>
+
+<div class="job">
 
 ### Salesforce Technical Lead | Liberty IT Solutions (acquired by Booz Allen Hamilton, 2022)
 
@@ -95,6 +103,10 @@ _Apr 2021 – Apr 2022 | Appleton, WI_
 - Facilitated the adoption of Copado and architected a multi-release strategy that operated within the tool's pipeline configuration limitations
 - Communicated with the client's DevOps strategy team to identify cross-project dependencies and packaging requirements
 - Ensured adequate test coverage for deployment by advising on and developing against the project's unit testing infrastructure
+
+</div>
+
+<div class="job">
 
 ### Salesforce Administrator/Developer | Jewelers Mutual Insurance Group
 
@@ -109,11 +121,17 @@ _Aug 2018 – Apr 2021 | Neenah, WI_
 - Maintained 99% average Apex test code coverage across the codebase
 - Established team standards for test class coverage, OOP/bulk design patterns, and trigger frameworks
 
+</div>
+
+<div class="job">
+
 ### Urdu Cryptologic Linguist / Signals Intelligence Operator | United States Marine Corps
 
 _Sep 2013 – Aug 2018_
 
 - Served as a Cryptologic Linguist and Signals Intelligence Operator with a focus on Urdu language operations
+
+</div>
 
 ---
 
