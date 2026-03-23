@@ -1,3 +1,11 @@
+---
+title: Resume
+margin-top: 12mm
+margin-bottom: 12mm
+margin-left: 14mm
+margin-right: 14mm
+---
+
 # Matthew Zolp
 
 **Salesforce Technical Architect**
@@ -48,7 +56,7 @@ Software Architect driving enterprise Salesforce architecture, DevOps automation
 - **OmniStudio Developer** — 2024
 - **Development Lifecycle & Deployment Designer** — 2021
 - **Copado Fundamentals I & II** — 2023
-- *+ 13 additional Salesforce & DevOps certifications*
+- _+ 13 additional Salesforce & DevOps certifications_
 
 </div>
 </div>
