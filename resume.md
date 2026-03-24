@@ -12,7 +12,7 @@ margin-right: 14mm
 
 ---
 
-Software Architect driving enterprise Salesforce architecture, DevOps automation, and AI-assisted development tooling on large-scale federal programs at the Department of Veterans Affairs. 23x Salesforce Certified — including System Architect, Application Architect, OmniStudio, MuleSoft, and Public Sector Solutions. Proven track record of scaling teams from 20 to 100+ contributors, building CI/CD infrastructure from the ground up, and pioneering AI-augmented quality assurance tooling that elevates delivery across entire development organizations.
+Secret cleared Software Architect driving enterprise Salesforce architecture, DevOps automation, and AI-assisted development tooling on large-scale federal programs at the Department of Veterans Affairs. 23x Salesforce Certified — including System Architect, Application Architect, OmniStudio, MuleSoft, and Public Sector Solutions. Proven track record of scaling teams from 20 to 100+ contributors, building CI/CD infrastructure from the ground up, and pioneering AI-augmented quality assurance tooling that elevates delivery across entire development organizations.
 
 ---
 
