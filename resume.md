@@ -28,12 +28,12 @@ Software Architect driving enterprise Salesforce architecture, DevOps automation
 
 ### Technical Skills
 
-- **Salesforce Platform:** Apex, Lightning Web Components (LWC), Aura, Visualforce, OmniStudio, Health Cloud, Public Sector Solutions, Unlocked Packages
-- **Architecture & Design:** Enterprise Architecture, Integration Architecture, Data Architecture, Identity & Access Management, Repository Pattern, Dependency Injection, Stubbing/Mocking
-- **DevOps & CI/CD:** Salesforce DX, Copado, GitHub Actions, Jenkins CI, Scratch Org Automation, Merge Queue Management, Static Code Analysis
-- **Integration:** REST API Design & Development, MuleSoft, API-Led Connectivity, Google BigQuery ETL
-- **AI & Tooling:** GitHub Copilot, AI-Powered Code Review Automation
-- **Languages & Web:** Apex, JavaScript, jQuery, HTML/CSS, Visualforce
+- **Salesforce Platform:** Apex, Lightning Web Components (LWC), Aura, Visualforce, OmniStudio, Core Platform
+- **Architecture & Design:** Enterprise Architecture, Integration Architecture, Data Architecture, Identity & Access Management, Apex Frameworks, Dependency Injection, Stubbing/Mocking
+- **DevOps & CI/CD:** Salesforce DX, Copado, GitHub Actions, Jenkins CI, Scratch Org Automation, Static Code Analysis
+- **Integration:** REST API Design & Development, MuleSoft, API-Led Connectivity
+- **AI & Tooling:** GitHub Copilot, AI-Powered DevOps Tooling
+- **Languages & Web:** Apex, JavaScript, HTML/CSS, Visualforce
 - **Methodologies:** SAFe/Agile, SDLC Management, Test-Driven Development
 
 ### Certifications — Salesforce (23x Certified)
@@ -56,7 +56,7 @@ Software Architect driving enterprise Salesforce architecture, DevOps automation
 - **OmniStudio Developer** — 2024
 - **Development Lifecycle & Deployment Designer** — 2021
 - **Copado Fundamentals I & II** — 2023
-- _+ 13 additional Salesforce & DevOps certifications_
+- _+ 13 additional Salesforce certifications_
 
 </div>
 </div>
@@ -93,9 +93,9 @@ _Apr 2022 – Aug 2025 | Appleton, WI_
 
 - Served as Lead Developer on a team of 80+ contributors, delivering a complex Health Cloud implementation using custom LWC and Apex frameworks to virtualize external data sources through mature API services
 - Designed and delivered a comprehensive scheduling solution leveraging OmniStudio, Lightning Web Components, Apex, and API-led development practices, enabling healthcare administrative professionals to create and manage appointments for Veterans
-- Oversaw the transition of the scheduling solution into an Unlocked Package, making it installable across multiple Salesforce orgs within the client's infrastructure
-- Resolved 48 production issues in a single year while serving as a cross-functional SME on the Salesforce Scheduling solution
-- Guided the Production Sustainment Team and delivery teams through complex release challenges, proactively designing against API specifications ahead of backend availability — saving significant time and eliminating costly rework
+- Oversaw the transition of a complex scheduling solution into an Unlocked Package, making it installable across multiple Salesforce orgs within the client's infrastructure
+- Resolved 48 production issues in a single year while serving as a cross-functional SME on the Production Sustainment team
+- Guided the delivery team through complex release challenges, proactively designing against API specifications ahead of backend availability — saving significant time and eliminating costly rework
 
 </div>
 
